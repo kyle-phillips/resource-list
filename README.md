@@ -1,6 +1,6 @@
 # resource-list
 
-Twitter resources  
+## Twitter resources  
  @Antisy_Training  
  @OSINTtechniques  
  @CyberScoopNews  
@@ -17,7 +17,7 @@ Twitter resources
  @strandjs  
  Advanced twitter search. For example:  ("vote" OR "voting") ("Tenex Software" OR "Smartmatic" OR "KnowInk") lang:en filter:links  
 
-YouTube resources  
+## YouTube resources  
  https://www.youtube.com/c/GeraldAuger  
  https://www.youtube.com/c/BlackHillsInformationSecurity  
  https://www.youtube.com/c/HackerSploit  
@@ -33,16 +33,24 @@ YouTube resources
  https://www.youtube.com/c/M9development  
  https://www.youtube.com/c/hak5  
  https://www.youtube.com/c/SecurityFWD  
+ https://www.youtube.com/c/WildWestHackinFest  
 
- 
+## Github resources  
+https://github.com/MSAdministrator  
+https://github.com/trustedsec  
+https://github.com/thewhiteh4t  
+https://github.com/activecm  
+https://github.com/SwiftOnSecurity  
+https://github.com/olafhartong  
+https://github.com/cisagov  
+https://github.com/jstrosch  
+https://github.com/swimlane/pyattck  
 
-Github resources  
-
-OSINT  
+## OSINT  
+ https://inteltechniques.com/  
  https://flightaware.com/  
 
-
-Security related web sites  
+## Security related web sites  
  SHODAN https://shodan.io  
  CENSYS https://censys.io  
  SPYSE https://spyse.com  
